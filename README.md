@@ -29,7 +29,7 @@ Git clone git@github.com:reez-code/wk2-code-challenge.git
 
 # Live Link
 
-[Git](gh-pages link)
+[Git](https://github.com/reez-code/wk2-code-challenge.git)
 
 ## Technologies used
 
